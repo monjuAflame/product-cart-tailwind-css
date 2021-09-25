@@ -9,7 +9,7 @@ ALL Layout Responsive.
 
 npm install
 
-npm run build:tailwinds
+npm run build
 
 
 ## see on here 
